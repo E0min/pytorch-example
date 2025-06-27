@@ -1,5 +1,5 @@
 # Basic MNIST Example
-
+칼룰루~
 ```bash
 pip install -r requirements.txt
 python main.py
